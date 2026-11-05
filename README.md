@@ -17,6 +17,8 @@
   <a href="https://mecanautos-taller.vercel.app"><b>🌐 Abrir en el navegador</b></a>
 </p>
 
+<p align="center"><sub>Versión actual: <b>1.0.0</b> · Android · Windows 10/11 (64 bits)</sub></p>
+
 ---
 
 ## 📱 Android (celular o tablet)
