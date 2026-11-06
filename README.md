@@ -12,12 +12,14 @@
 <p align="center">
   <a href="https://github.com/samuelvelez1003/mecanautos-descargas/releases/latest/download/MecanAutos-Android.apk"><b>📱 Descargar para Android</b></a>
   &nbsp;·&nbsp;
+  <a href="#-iphone-y-ipad"><b>🍎 Instalar en iPhone / iPad</b></a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/samuelvelez1003/mecanautos-descargas/releases/latest/download/MecanAutos-Windows.exe"><b>💻 Descargar para Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://mecanautos-taller.vercel.app"><b>🌐 Abrir en el navegador</b></a>
 </p>
 
-<p align="center"><sub>Versión actual: <b>1.0.0</b> · Android · Windows 10/11 (64 bits)</sub></p>
+<p align="center"><sub>Versión actual: <b>1.0.0</b> · Android · iPhone / iPad · Windows 10/11 (64 bits)</sub></p>
 
 ---
 
@@ -30,6 +32,20 @@
 5. Si aparece *"Play Protect no reconoce este desarrollador"*: toca **Más detalles → Instalar de todas formas**. Lo pregunta porque la app no viene de Play Store.
 
 Queda el ícono **MecanAutos** en el celular y se abre a pantalla completa.
+
+## 🍎 iPhone y iPad
+
+En iPhone no se descarga ningún archivo: la app se instala desde Safari y queda en la pantalla de inicio, igual que una app de la App Store.
+
+1. En el iPhone abre **Safari** y entra a **https://mecanautos-taller.vercel.app**
+2. Toca el botón **Compartir** (el cuadro con la flecha hacia arriba ⬆️), abajo en el centro. En iPad está arriba a la derecha.
+3. Desliza hacia abajo y toca **Agregar a inicio**.
+4. Deja el nombre **MecanAutos** y toca **Agregar**.
+
+Queda el ícono **MecanAutos** en la pantalla de inicio. Se abre a pantalla completa, sin las barras de Safari, y se actualiza sola.
+La misma app te muestra estos pasos: al entrar desde Safari aparece el aviso **"Instala la app → Cómo"**.
+
+> Si abriste el enlace desde Instagram, WhatsApp u otra app, primero toca **•••** → **Abrir en Safari**.
 
 ## 💻 Windows (PC o portátil)
 
@@ -57,7 +73,7 @@ No. Las apps instaladas se actualizan solas cada vez que se publican cambios.
 Pídele al administrador del taller que te asigne una nueva desde *Usuarios y roles*.
 
 **¿Cómo la desinstalo?**
-Android: mantén presionado el ícono → **Desinstalar**. · Windows: **Configuración → Aplicaciones → MecanAutos → Desinstalar**.
+Android: mantén presionado el ícono → **Desinstalar**. · iPhone: mantén presionado el ícono → **Eliminar app**. · Windows: **Configuración → Aplicaciones → MecanAutos → Desinstalar**.
 
 **¿Es segura?**
 Sí. Solo pueden entrar las personas registradas por el administrador, y cada una ve lo que permite su rol (Administrador, Gerencia o Mecánico).
